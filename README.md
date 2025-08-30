@@ -30,7 +30,7 @@ O banco foi modelado e normalizado, permitindo consultas avançadas para apoiar 
 ---
 
 ## 🗄️ Estrutura do Banco de Dados
-O banco de dados foi projetado com **16 tabelas** relacionadas entre si, garantindo **integridade referencial**.  
+O banco de dados foi projetado com **17 tabelas** relacionadas entre si, garantindo **integridade referencial**.  
 
 📌 **DER – Diagrama Entidade Relacionamento:**  
 

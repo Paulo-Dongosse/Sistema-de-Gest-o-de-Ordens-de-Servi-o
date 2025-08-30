@@ -45,7 +45,7 @@ O projeto está organizado em 3 arquivos principais:
 - `inserir dados OS.sql` → Inserção de dados fictícios para testes (10 registros por tabela)  
 - `consultas em OS.sql` → Conjunto de queries complexas para análise e relatórios  
 
----
+--- 
 
 ## 📝 Exemplos de Consultas SQL
 
